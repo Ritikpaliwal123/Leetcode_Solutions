@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+| [3516-find-closest-person](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
