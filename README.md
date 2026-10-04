@@ -44,6 +44,7 @@
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -51,6 +52,7 @@
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -98,4 +100,9 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
