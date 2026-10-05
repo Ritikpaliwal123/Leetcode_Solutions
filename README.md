@@ -42,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -104,5 +106,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
