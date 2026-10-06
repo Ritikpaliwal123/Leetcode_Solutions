@@ -57,6 +57,7 @@
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -93,10 +94,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
