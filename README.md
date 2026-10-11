@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
