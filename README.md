@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
@@ -148,6 +149,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Interactive
