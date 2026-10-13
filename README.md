@@ -19,6 +19,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Prefix Sum
 |  |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
 | ------- |
