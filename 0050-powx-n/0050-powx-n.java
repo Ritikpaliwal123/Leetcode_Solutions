@@ -1,5 +1,20 @@
 class Solution {
     public double myPow(double x, int n) {
-         return Math.pow(x,n); 
+        long N=n;
+        if(N<0){
+        return 1.0/call(x,-n);      
+         }
+         return call(x,N);
     }
-}
+         private double call(double x,long n){
+            if(n==0){
+                return 1;
+            }
+            double half=call(x,n/2);
+            if(n%2==0){
+                return half*half;
+            } else{
+                 return x*half*half;
+            }
+         }
+    }
