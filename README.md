@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -138,6 +139,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
