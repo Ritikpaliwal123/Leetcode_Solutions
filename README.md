@@ -34,6 +34,7 @@
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
