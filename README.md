@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
