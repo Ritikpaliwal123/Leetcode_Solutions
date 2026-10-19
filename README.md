@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
