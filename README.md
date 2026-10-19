@@ -24,12 +24,14 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3903-smallest-stable-index-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
