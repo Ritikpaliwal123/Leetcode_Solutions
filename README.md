@@ -70,6 +70,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -88,6 +89,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -147,6 +149,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Sliding Window
 |  |
 | ------- |
