@@ -101,6 +101,7 @@
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+| [3794-reverse-string-prefix](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
