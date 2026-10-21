@@ -24,6 +24,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Prefix Sum
@@ -78,6 +79,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -152,6 +154,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
