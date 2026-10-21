@@ -41,6 +41,7 @@
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -86,6 +87,7 @@
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
