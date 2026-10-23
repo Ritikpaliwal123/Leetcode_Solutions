@@ -19,6 +19,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -100,6 +101,7 @@
 | [1446-consecutive-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
