@@ -16,6 +16,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
