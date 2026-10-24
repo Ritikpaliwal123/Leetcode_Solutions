@@ -48,6 +48,7 @@
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -103,6 +104,7 @@
 | [1446-consecutive-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2409-count-days-spent-together](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
