@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
