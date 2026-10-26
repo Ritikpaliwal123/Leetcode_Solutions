@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -74,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
