@@ -26,6 +26,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -88,6 +89,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
