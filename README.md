@@ -19,6 +19,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -106,6 +107,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2409-count-days-spent-together](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
