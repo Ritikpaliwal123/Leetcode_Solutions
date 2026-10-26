@@ -29,6 +29,7 @@
 | [2942-find-words-containing-character](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
