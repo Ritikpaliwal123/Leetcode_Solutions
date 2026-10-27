@@ -113,6 +113,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
