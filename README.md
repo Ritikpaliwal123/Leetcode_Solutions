@@ -106,6 +106,7 @@
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
