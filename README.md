@@ -107,6 +107,7 @@
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1089-duplicate-zeros](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [3794-reverse-string-prefix](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
