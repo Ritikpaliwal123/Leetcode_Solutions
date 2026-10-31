@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1089-duplicate-zeros](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -79,6 +80,7 @@
 | [0367-valid-perfect-square](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
