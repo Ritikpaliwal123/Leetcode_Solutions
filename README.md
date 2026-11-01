@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Interactive
@@ -262,4 +263,8 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
