@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -56,6 +57,7 @@
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
