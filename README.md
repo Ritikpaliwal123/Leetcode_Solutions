@@ -103,6 +103,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +226,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -282,6 +284,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
