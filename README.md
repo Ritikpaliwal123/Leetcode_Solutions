@@ -39,6 +39,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -52,6 +53,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -72,6 +74,7 @@
 | [2409-count-days-spent-together](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
