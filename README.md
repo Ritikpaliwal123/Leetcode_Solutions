@@ -229,6 +229,7 @@
 | [0344-reverse-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [3794-reverse-string-prefix](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -282,4 +283,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
