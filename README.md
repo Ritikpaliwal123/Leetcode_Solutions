@@ -61,6 +61,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0342-power-of-four) |
