@@ -23,6 +23,7 @@
 | [1089-duplicate-zeros](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -97,6 +98,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -205,6 +207,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
@@ -233,6 +236,7 @@
 | [0567-permutation-in-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
