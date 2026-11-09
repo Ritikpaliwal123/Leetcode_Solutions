@@ -73,6 +73,7 @@
 | [0504-base-7](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
