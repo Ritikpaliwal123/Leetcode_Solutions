@@ -30,6 +30,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -73,6 +74,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/3959-check-good-integer) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ritikpaliwal123/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
